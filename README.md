@@ -7,6 +7,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# 关于质保：购买NVIDIA Jetson产品，这一点不知道会吃大亏
+# NVIDIA Jetson TX2核心板这些细节不注意，别怪坏了不修哟！
+
 
 ```markdown
 Syntax highlighted code block
